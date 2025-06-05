@@ -44,3 +44,7 @@ The task successfully implemented a fundamental synchronous RAM module suitable 
 
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b0e1f55a-f107-4a70-9320-9ca03412806b)
+
+![Image](https://github.com/user-attachments/assets/4c7adfd0-b947-4741-8ebc-29231107abe3)
